@@ -1,4 +1,4 @@
-
+#Author: SISS
 # coding: utf-8
 
 # In[1]:
@@ -6,12 +6,9 @@
 
 ls
 
-
 # In[2]:
 
-
 pwd
-
 
 # In[82]:
 
